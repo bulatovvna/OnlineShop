@@ -13,6 +13,7 @@ const cart = () => {
 
     cartBtn.addEventListener('click', openCart)
     CartCloseModal.addEventListener('click', closeCart)
+
 }
 
 export default cart
